@@ -58,3 +58,7 @@ No external dependencies are required for this app.
 2. Open the project in your preferred Flutter development environment.
 3. Run the app on an emulator or physical device.
 
+## developer info
+1. **Name:** Umang Sojitra
+2. **Email:** umangbs123@gmail.com
+3. **GitHub:** https://github.com/umangDell
