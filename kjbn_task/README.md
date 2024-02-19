@@ -58,5 +58,3 @@ No external dependencies are required for this app.
 2. Open the project in your preferred Flutter development environment.
 3. Run the app on an emulator or physical device.
 
-Feel free to explore the codebase and customize the app to your liking!
-
