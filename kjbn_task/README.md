@@ -61,4 +61,4 @@ No external dependencies are required for this app.
 ## developer info
 1. **Name:** Umang Sojitra
 2. **Email:** umangbs123@gmail.com
-3. **GitHub:** https://github.com/umangDell
+3. **GitHub:** https://github.com/umangDell/beat_the_clock/tree/master/kjbn_task
